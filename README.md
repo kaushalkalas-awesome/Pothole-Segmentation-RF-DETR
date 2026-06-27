@@ -115,6 +115,9 @@ The model demonstrates:
 - **Good recall** across most classes, especially for "Potholes" (73.06% AR)
 - **Real-time inference** capability after optimization
 
+<Figure size 1200x1200 with 16 Axes><img width="1196" height="1196" alt="image" src="https://github.com/user-attachments/assets/13b667f4-7a6c-4664-9c83-1507ac93f7c0" />
+
+
 ## 📝 Notes
 
 - The model shows varying performance across different pothole class variants
