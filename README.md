@@ -38,12 +38,9 @@ The model is trained on the "Pothole-Segmentation" dataset from Roboflow, which 
 - **Classes**: 6 categories including different types of potholes and road anomalies
 
 ### Dataset Classes
-- Pothole-Segmentation
 - Manhole
-- Pothole
 - Potholes
 - Unmarked Bump
-- pothole
 
 ## 🏗️ Model Architecture
 
